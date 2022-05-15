@@ -1,4 +1,4 @@
-n = int(input("Nhập vào số : "))
+n = float(input("Nhập vào số : "))
 if n%2==0:
 	print(f"{n} là số chẵn")
 else:
