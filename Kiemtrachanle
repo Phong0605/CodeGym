@@ -1,0 +1,7 @@
+	n = int(input("Nhập vào số : "))
+if n%2==0:
+	print(f"{n} là số chẵn")
+elif n%2==1:
+	print(f"{n} là số lẽ")
+else:
+  print("không phải số tự nhiên")
